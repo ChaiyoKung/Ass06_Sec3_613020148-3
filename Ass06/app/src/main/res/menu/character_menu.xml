@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_boy"
+        android:icon="@drawable/boy"
+        android:title="Boy"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_girl"
+        android:icon="@drawable/girl"
+        android:title="Girl"
+        app:showAsAction="always" />
+</menu>
